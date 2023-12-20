@@ -1,0 +1,16 @@
+
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  max-height: fit-content;
+  max-width: fit-content;
+  background-color: black;
+}
+h3{
+  color:antiquewhite;
+}
+.form-label{
+  color:antiquewhite;
+}
